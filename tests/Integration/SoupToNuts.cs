@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace tests
+namespace <%= namespace %>.Integration
 {
     public class SoupToNuts
     {

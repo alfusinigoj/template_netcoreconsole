@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace tests
+namespace <%= namespace %>.Unit
 {
     public class UnitTest1
     {
